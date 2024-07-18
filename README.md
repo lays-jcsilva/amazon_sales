@@ -24,7 +24,8 @@ O objetivo desta análise é identificar e compreender os principais fatores que
 
 * BigQuery (Linguagem SQL)
 * Google Colab (Linguagem Python)
-* Looker Studio
+* Power BI
+* Google Slides
 
 ## Dados utilizados na análise
 
