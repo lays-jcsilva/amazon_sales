@@ -57,9 +57,9 @@ Este projeto reveste-se de uma importância crucial para o banco Super Caja pois
 
 ## Resultados
 
--**Hipótese 1: Produtos com maior desconto aplicado (discount_percentage) são melhor classificados (rating):**
+- **Hipótese 1: Produtos com maior desconto aplicado (discount_percentage) são melhor classificados (rating):**
 
-os resultados mostraram uma correlação significativa, mas negativa, entre o percentual de desconto aplicado e a classificação dos produtos
+Os resultados mostraram uma correlação significativa, mas negativa, entre o percentual de desconto aplicado e a classificação dos produtos
 
 A hipótese foi **refutada** e as recomendações são:
 
