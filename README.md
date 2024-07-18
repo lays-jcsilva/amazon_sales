@@ -72,6 +72,9 @@ A hipótese foi **refutada** e as recomendações são:
 - **Avaliar Estratégias de Desconto:** Reconsiderar a aplicação de grandes descontos para produtos que já possuem boas avaliações, pois isso pode ser percebido como uma diminuição do valor percebido pelos consumidores.
 - **Análise dos feedbacks dos clientes:** Coletar e analisar feedback detalhado dos clientes sobre como os descontos influenciam suas percepções e decisões de compra. Isso pode ajudar a entender melhor a relação entre preço e percepção de qualidade.
 
+    <details>
+  
+
   <details>
 <summary><b>Hipótese 2 </b></summary>
 
@@ -87,6 +90,8 @@ A hipótese foi **confirmada** e as recomendações são:
 - **Incentivar avaliações positivas:** Implementar estratégias para incentivar os clientes satisfeitos a deixarem avaliações positivas. Isso pode incluir lembretes pós-compra, programas de recompensas, ou incentivos como descontos em compras futuras para aqueles que deixam avaliações.
 
 -**Melhorar a experiência do cliente:** Focar em melhorar a experiência do cliente em todas as etapas do processo de compra. Clientes satisfeitos são mais propensos a deixar avaliações positivas, o que pode, por sua vez, melhorar a classificação dos produtos.
+
+  <details>
 
   <details>
 <summary><b>Hipótese 3 </b></summary>
@@ -105,7 +110,7 @@ A hipótese foi **confirmada** e as recomendações são:
 - **Responder avaliações:** Manter um diálogo ativo com os clientes respondendo às suas avaliações, especialmente as negativas. Demonstrar que a empresa valoriza o feedback dos clientes pode aumentar a satisfação e lealdade.
 - **Implementar melhorias:** Usar o feedback das avaliações para identificar áreas de melhoris. Implementar essas melhorias pode resultar em mais avaliações positivas no futuro.
 
-
+  <details>
 
 ## Links de Interesse:
 
