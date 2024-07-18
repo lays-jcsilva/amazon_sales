@@ -60,6 +60,7 @@ Este projeto reveste-se de uma importância crucial para o banco Super Caja pois
 <details>
 <summary><b>Hipótese 1 </b></summary>
 
+
 - **Hipótese 1: Produtos com maior desconto aplicado (discount_percentage) são melhor classificados (rating):**
 
 Os resultados mostraram uma correlação significativa, mas negativa, entre o percentual de desconto aplicado e a classificação dos produtos
@@ -72,6 +73,8 @@ A hipótese foi **refutada** e as recomendações são:
 - **Análise dos feedbacks dos clientes:** Coletar e analisar feedback detalhado dos clientes sobre como os descontos influenciam suas percepções e decisões de compra. Isso pode ajudar a entender melhor a relação entre preço e percepção de qualidade.
 
   <details>
+<summary><b>Hipótese 2 </b></summary>
+
   
 - **Hipótese 2: Produtos com mais avaliações positivas (score_sentimento) são melhor classificados (rating):**
   
@@ -84,6 +87,9 @@ A hipótese foi **confirmada** e as recomendações são:
 - **Incentivar avaliações positivas:** Implementar estratégias para incentivar os clientes satisfeitos a deixarem avaliações positivas. Isso pode incluir lembretes pós-compra, programas de recompensas, ou incentivos como descontos em compras futuras para aqueles que deixam avaliações.
 
 -**Melhorar a experiência do cliente:** Focar em melhorar a experiência do cliente em todas as etapas do processo de compra. Clientes satisfeitos são mais propensos a deixar avaliações positivas, o que pode, por sua vez, melhorar a classificação dos produtos.
+
+  <details>
+<summary><b>Hipótese 3 </b></summary>
 
 
 
