@@ -95,6 +95,12 @@ A hipótese foi **confirmada** e as recomendações são:
 
 - [Google Colab Notebook](https://colab.research.google.com/drive/1LlWu4zeubaB6Qro6K12BId4PJGXEVw2Z?authuser=0#scrollTo=1a-4jcr0zJAi)
 - [Documentação Completa](https://tricolor-puck-1da.notion.site/Projeto-4-Ficha-T-cnica-An-lise-de-Dados-aeed49440a6e4377bd9f168c9f0c65b6)
+- [Apresentação](https://docs.google.com/presentation/d/1ejOuCTVcM9cCV-StkbdAqfY8OQBebtLzRWXgMwFxUn8/edit#slide=id.g4dfce81f19_0_45)
+
+
+## Dashboard:
+![image](https://github.com/user-attachments/assets/9c61a6a0-e3a4-4caf-a776-bdd3166c5ee3)
+
 
 
 
