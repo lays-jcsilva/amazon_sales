@@ -99,7 +99,8 @@ A hipótese foi **confirmada** e as recomendações são:
 
 
 ## Dashboard:
-![image](https://github.com/user-attachments/assets/32d97821-4c29-482f-a1ed-2ba56c06bef2)
+![image](https://github.com/user-attachments/assets/f7ae3b11-820f-4f32-a69f-eb643787a883)
+
 
 
 
