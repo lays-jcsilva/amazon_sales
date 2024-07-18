@@ -68,6 +68,8 @@ A hipótese foi **refutada** e as recomendações são:
 - **Avaliar Estratégias de Desconto:** Reconsiderar a aplicação de grandes descontos para produtos que já possuem boas avaliações, pois isso pode ser percebido como uma diminuição do valor percebido pelos consumidores.
 - **Análise dos feedbacks dos clientes:** Coletar e analisar feedback detalhado dos clientes sobre como os descontos influenciam suas percepções e decisões de compra. Isso pode ajudar a entender melhor a relação entre preço e percepção de qualidade.
 
+  
+
 * Hipótese 2: Produtos com mais avaliações positivas (score_sentimento) são melhor classificados (rating):
   
 - A correlação de Spearman de 0.2652 indica uma correlação positiva moderada entre score_sentimento e rating. Isso sugere que produtos que recebem mais avaliações positivas tendem a obter classificações mais altas. No entanto, a correlação moderada também indica que outros fatores além do número de avaliações positivas podem estar influenciando significativamente a classificação dos produtos.
@@ -78,7 +80,9 @@ A hipótese foi **confirmada** e as recomendações são:
 
 - **Incentivar avaliações positivas:** Implementar estratégias para incentivar os clientes satisfeitos a deixarem avaliações positivas. Isso pode incluir lembretes pós-compra, programas de recompensas, ou incentivos como descontos em compras futuras para aqueles que deixam avaliações.
 
--**Melhorar a experiência do cliente:**Focar em melhorar a experiência do cliente em todas as etapas do processo de compra. Clientes satisfeitos são mais propensos a deixar avaliações positivas, o que pode, por sua vez, melhorar a classificação dos produtos.
+-**Melhorar a experiência do cliente:** Focar em melhorar a experiência do cliente em todas as etapas do processo de compra. Clientes satisfeitos são mais propensos a deixar avaliações positivas, o que pode, por sua vez, melhorar a classificação dos produtos.
+
+
 
 * Hipótese 3: Produtos com mais avaliações (rating_count) são melhor classificados (rating):
 
