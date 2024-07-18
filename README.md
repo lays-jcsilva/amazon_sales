@@ -1,10 +1,10 @@
  
-# 📊📈 🛒 Análise de dados na empresa Amazon
+
+<h1 style="font-size: 2.5em;">Ficha Técnica | Amazon Sales</h1>
 
 ![image](https://github.com/user-attachments/assets/a159aa7a-c786-4c66-9c7b-6e713de829e3)   
 
-## Ficha Técnica | Amazon Sales
-
+# 📊📈 🛒 Análise de dados na empresa Amazon
 
 💡 Projeto: Amazon Sales -  Fatores Influenciadores nas Avaliações de Produtos na Amazon
 
