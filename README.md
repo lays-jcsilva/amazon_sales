@@ -14,7 +14,6 @@ Fatores Influenciadores nas Avaliações de Produtos
 
 O objetivo desta análise é identificar e compreender os principais fatores que influenciam a pontuação e a classificação dos produtos na plataforma da Amazon, a análise busca revelar correlações entre o preço com desconto, o número de avaliações e a classificação dos produtos. Esses insights ajudarão a Amazon a aprimorar suas estratégias de marketing e a melhorar a satisfação do cliente.
 
-Este projeto reveste-se de uma importância crucial para o banco Super Caja pois a equipe de análise de crédito
 
 ## Equipe
 
