@@ -45,7 +45,7 @@ O objetivo desta análise é identificar e compreender os principais fatores que
 * **Testes Estatísticos**: Realizamos o teste de Shapiro-Wilk para verificar a normalidade dos dados, correlação de Spearman, Teste de Significância (Mann-Whitney) e Regressão linear e Regressão logística.
 * **Processamento de Linguagem Natural (PLN)**: Criamos um score de sentimento para a variável review_content, para análise de sentimentos convertendo sentimentos expressos em palavras em valores numéricos.
 
-Se quiser ver mais detalhes sobre essa etapa, [clique aqui](https://tricolor-puck-1da.notion.site/Projeto-4-Ficha-T-cnica-An-lise-de-Dados-aeed49440a6e4377bd9f168c9f0c65b6).
+📍 Se quiser ver mais detalhes sobre essa etapa, [clique aqui](https://tricolor-puck-1da.notion.site/Projeto-4-Ficha-T-cnica-An-lise-de-Dados-aeed49440a6e4377bd9f168c9f0c65b6).
 
 ## Resultados e Recomendações
 
