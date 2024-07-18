@@ -1,5 +1,9 @@
-![image](https://github.com/user-attachments/assets/a159aa7a-c786-4c66-9c7b-6e713de829e3)   # Análise de dados na empresa Amazon
+ 
+# 📊📈 🛒 Análise de dados na empresa Amazon
 
+![image](https://github.com/user-attachments/assets/a159aa7a-c786-4c66-9c7b-6e713de829e3)   
+
+## Ficha Técnica | Amazon Sales
 
 
 💡 Projeto: Amazon Sales -  Fatores Influenciadores nas Avaliações de Produtos na Amazon
