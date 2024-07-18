@@ -57,9 +57,9 @@ Este projeto reveste-se de uma importância crucial para o banco Super Caja pois
 
 ## Resultados
 
-* Hipótese 1: Produtos com maior desconto aplicado (discount_percentage) são melhor classificados (rating):
+-**Hipótese 1: Produtos com maior desconto aplicado (discount_percentage) são melhor classificados (rating):**
 
--  os resultados mostraram uma correlação significativa, mas negativa, entre o percentual de desconto aplicado e a classificação dos produtos
+os resultados mostraram uma correlação significativa, mas negativa, entre o percentual de desconto aplicado e a classificação dos produtos
 
 A hipótese foi **refutada** e as recomendações são:
 
@@ -69,7 +69,7 @@ A hipótese foi **refutada** e as recomendações são:
 - **Análise dos feedbacks dos clientes:** Coletar e analisar feedback detalhado dos clientes sobre como os descontos influenciam suas percepções e decisões de compra. Isso pode ajudar a entender melhor a relação entre preço e percepção de qualidade.
 
   
-- ** Hipótese 2: Produtos com mais avaliações positivas (score_sentimento) são melhor classificados (rating):**
+- **Hipótese 2: Produtos com mais avaliações positivas (score_sentimento) são melhor classificados (rating):**
   
 A correlação de Spearman de 0.2652 indica uma correlação positiva moderada entre score_sentimento e rating. Isso sugere que produtos que recebem mais avaliações positivas tendem a obter classificações mais altas. No entanto, a correlação moderada também indica que outros fatores além do número de avaliações positivas podem estar influenciando significativamente a classificação dos produtos.
 
@@ -83,7 +83,8 @@ A hipótese foi **confirmada** e as recomendações são:
 
 
 
-- ** Hipótese 3: Produtos com mais avaliações (rating_count) são melhor classificados (rating):**
+- **Hipótese 3: Produtos com mais avaliações (rating_count) são melhor classificados (rating):**
+  
 
 Os resultados indicam uma correlação positiva moderada entre quantidade de avaliações e classificação dos produtos
 
