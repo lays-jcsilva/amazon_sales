@@ -1,8 +1,6 @@
  
 
-
-
-![image](https://github.com/user-attachments/assets/a159aa7a-c786-4c66-9c7b-6e713de829e3)    <h1 style="font-size: 2.5em;">Ficha Técnica | Amazon Sales</h1>
+ <h1 style="font-size: 2.5em;">Ficha Técnica | Amazon Sales</h1>
 
 # 📊📈 🛒 Análise de dados na empresa Amazon
 
